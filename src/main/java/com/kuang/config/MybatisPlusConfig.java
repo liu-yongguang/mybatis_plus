@@ -1,8 +1,9 @@
-package com.kuang.config;/**
+package com.kuang.config;
+/**
  * @author:Mr.Liu
  * @Date: 2022/2/28 16:54
  * @version: 1.0
- * @Description:
+ * @Description: 配置类
  */
 
 import com.baomidou.mybatisplus.core.injector.ISqlInjector;
