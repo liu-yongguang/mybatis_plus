@@ -13,5 +13,6 @@ public class TestPush {
         System.out.println("第2次push！");
         System.out.println("第3次push！");
         System.out.println("第一次pull、！");
+        System.out.println("第2次pull、！");
     }
 }
